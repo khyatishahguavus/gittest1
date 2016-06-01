@@ -10,7 +10,7 @@ public class testjava {
 		System.out.println("hello");
 		System.out.println(a+b);
 		
-		System.out.println(error);
+		System.out.println("error");
 		
 	}
 	
